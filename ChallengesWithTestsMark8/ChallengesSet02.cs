@@ -243,5 +243,7 @@ namespace ChallengesWithTestsMark8
                 return (number - 0) / 2;
             }
         }
-    }
-}
+
+
+    }//Class
+}//Namespace

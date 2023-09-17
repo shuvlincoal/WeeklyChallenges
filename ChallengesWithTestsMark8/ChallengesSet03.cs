@@ -195,5 +195,7 @@ namespace ChallengesWithTestsMark8
             }
 
         }//ChangeAllElementsToUppercase
-    }
-}
+
+
+    }//Class
+}//Namespace
